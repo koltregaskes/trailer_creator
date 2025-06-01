@@ -1,0 +1,14 @@
+Main Character Prompt:
+"Sci-fi concept art, portrait of Kael Valerius, a 28-year-old brilliant but reclusive male xenolinguist. He has intense, intelligent eyes, slightly disheveled dark hair, and is wearing practical, somewhat worn clothing suitable for academic work and light space travel. He looks focused and perhaps a little haunted. Background shows shelves of alien artifacts and glowing holographic scripts. Cinematic lighting, detailed."
+
+Scene 1 Prompt:
+"Sci-fi illustration, close-up on a man's face (Kael Valerius), eyes wide with terror and awe. Before him, a complex alien glyph, made of unstable, bright orange energy, flares violently. Sparks fly, console equipment visible. Dramatic, intense lighting, sense of immediate danger. Digital painting, highly detailed."
+
+Scene 2 Prompt:
+"Digital matte painting, epic wide shot of a massive derelict starship graveyard in space. Colossal, broken ship hulls drift silently. A tiny, illuminated scavenger ship navigates cautiously through the debris. The scene is bathed in an eerie green glow from the swirling Sargasso Nebula in the background. Ominous, mysterious, vast scale."
+
+Scene 3 Prompt:
+"Cyberpunk concept art. A torrent of corrupted, glitching digital light, primarily reds and yellows, surges through the data-hubs of a futuristic city (Neo-Alexandria). City lights flicker and die, screens show static, silhouettes of people in panic. Dynamic, chaotic energy, sense of technological meltdown. Detailed, high contrast."
+
+Scene 4 Prompt:
+"Sci-fi cinematic still. A lone astronaut in a weathered, slightly bulky spacesuit stands in a dark, ancient alien vault. Their hand, covered by a glove, touches a colossal stone tablet covered in intricate, faintly glowing unknown symbols. A soft blue pulse of energy emanates from the point of contact. Mysterious, awe-inspiring, ancient technology, volumetric lighting."
